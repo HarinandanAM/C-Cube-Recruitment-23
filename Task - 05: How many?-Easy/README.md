@@ -42,6 +42,14 @@ echo "Total count of USER IDs are:" $z     # total no. of people cant enter are 
 ```
 ![Screenshot from 2023-06-05 21-13-22](https://github.com/HarinandanAM/C-Cube-Recruitment-23/assets/116416113/7e6bbef9-e183-4d6d-896d-0738f3c7583d)
 
+also can be done with this code
+```
+#!/bin/bash
+
+k=$(($(grep -c "553" users.txt)+$(grep -c "828" users.txt)+$(grep -c "723" users.txt)+$(grep -c "698" users.txt)))
+echo "Total count of USER IDs are:" $k   
+```
+
 
 
 
