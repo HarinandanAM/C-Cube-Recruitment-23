@@ -13,7 +13,7 @@ Write a Python program for brute-forcing.
 ```
 pip install pyzipper
 ```
--Downloaded the given python file `Task - 02.py` and from the file we can see the known password with missing charecters to be found using bruteforce , for extracting the contents of the zip file.
+- Downloaded the given python file `Task - 02.py` and from the file we can see the known password with missing charecters to be found using bruteforce , for extracting the contents of the zip file.
 ```
 n_^{*}`W{*}5
 ```
@@ -67,6 +67,7 @@ Now we can get into the *password* directory and open the file named *Hint.txt* 
 
 To find which was the correct we can grep the correct password from the output of python file.
 
-![Uploading Screenshot from 2023-06-04 14-12-05.png…]()
+![Screenshot from 2023-06-04 14-11-47](https://github.com/HarinandanAM/C-Cube-Recruitment-23/assets/116416113/264ed494-ca77-4050-b4f1-4e5c04420088)
+
 
 **Correct password: n_^1`Wa5**
